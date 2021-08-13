@@ -1,7 +1,7 @@
 # Virtual Machines Init Setups
 
 ## VirtualBox Setting
-1) Add a `Host-only Adapter` network as second adapter. (first one use for internet access)
+1) Add a `Host-only Adapter` network as second adapter. (first one used for internet access)
 2) In `Adapter 1` add a new `Port Forwarding`
 
     | Name | Protocol | Host Port | Guest Port |
